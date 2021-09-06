@@ -2,3 +2,6 @@ NOTE: If you want these data and are *not* students in our first year seminar cl
 
 # IMDB-Movie-Data.csv
 https://www.kaggle.com/PromptCloudHQ/imdb-data
+
+# worldcities.csv
+https://simplemaps.com/data/world-cities
