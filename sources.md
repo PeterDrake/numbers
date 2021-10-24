@@ -5,3 +5,21 @@ https://www.kaggle.com/PromptCloudHQ/imdb-data
 
 # worldcities.csv
 https://simplemaps.com/data/world-cities
+
+# Portland Public Schools lead data
+
+Demographic data by school:
+
+http://www.pps.k12.or.us/schools-c/profiles/enrollment/index.php?YEAR=2018
+
+About lead in drinking water
+
+https://www.oregon.gov/oha/PH/HealthyEnvironments/DrinkingWater/Monitoring/Documents/health/lead.pdf
+
+Actual testing data:
+
+https://www.pps.net/Page/14261
+
+# Income data from U.S. Census Bureau Current Population Survey (PINC-01 used)
+
+https://www.census.gov/data/tables/time-series/demo/income-poverty/cps-pinc.html
