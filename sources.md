@@ -3,8 +3,12 @@ NOTE: If you want these data and are *not* students in our first year seminar cl
 # IMDB-Movie-Data.csv
 https://www.kaggle.com/PromptCloudHQ/imdb-data
 
-# worldcities.csv
-https://simplemaps.com/data/world-cities
+# Income data from U.S. Census Bureau Current Population Survey (PINC-01 used)
+
+https://www.census.gov/data/tables/time-series/demo/income-poverty/cps-pinc.html
+
+# parcels.csv
+(Manually created for an example)
 
 # Portland Public Schools lead data
 
@@ -20,6 +24,6 @@ Actual testing data:
 
 https://www.pps.net/Page/14261
 
-# Income data from U.S. Census Bureau Current Population Survey (PINC-01 used)
+# worldcities.csv
+https://simplemaps.com/data/world-cities
 
-https://www.census.gov/data/tables/time-series/demo/income-poverty/cps-pinc.html
