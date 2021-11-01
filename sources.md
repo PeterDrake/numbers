@@ -1,5 +1,8 @@
 NOTE: If you want these data and are *not* students in our first year seminar class, please get them from the sources. We do not own them and are not trying to "distribute" them; this repository is only public to remove a technical obstacle for our students.
 
+# cola.csv
+Manually created for an example
+
 # IMDB-Movie-Data.csv
 https://www.kaggle.com/PromptCloudHQ/imdb-data
 
@@ -8,7 +11,7 @@ https://www.kaggle.com/PromptCloudHQ/imdb-data
 https://www.census.gov/data/tables/time-series/demo/income-poverty/cps-pinc.html
 
 # parcels.csv
-(Manually created for an example)
+Manually created for an example
 
 # Portland Public Schools lead data
 
@@ -23,6 +26,9 @@ https://www.oregon.gov/oha/PH/HealthyEnvironments/DrinkingWater/Monitoring/Docum
 Actual testing data:
 
 https://www.pps.net/Page/14261
+
+# solar.csv
+Manually created for an example
 
 # worldcities.csv
 https://simplemaps.com/data/world-cities
