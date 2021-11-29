@@ -1,5 +1,8 @@
 NOTE: If you want these data and are *not* students in our first year seminar class, please get them from the sources. We do not own them and are not trying to "distribute" them; this repository is only public to remove a technical obstacle for our students.
 
+# Nov2020 Covid data
+https://www.kaggle.com/nightranger77/covid19-state-data
+
 # cola.csv
 Manually created for an example
 
